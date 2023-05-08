@@ -1,0 +1,8 @@
+.body{
+  background-color:#2A2C2F;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Inter, 'Helvetica Neue', Arial, sans-serif;
+}

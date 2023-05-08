@@ -1,0 +1,16 @@
+.lead__image{
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 500px;
+  align-self: center;
+}
+/*
+@media screen and (min-width:1280px) {
+  .lead__image{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+  } 
+ }*/

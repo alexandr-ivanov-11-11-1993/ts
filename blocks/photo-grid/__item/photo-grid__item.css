@@ -1,0 +1,8 @@
+.photo-grid__item{
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  /*padding-top: calc((3 / 4) * 100%);*/
+
+}
+

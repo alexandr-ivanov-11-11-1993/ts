@@ -1,0 +1,12 @@
+.header__lang-switch{
+  padding-bottom: 7px;
+  padding-right: 2px;
+}
+
+
+ @media screen and (max-width: 1023px) {
+   .header__lang-switch{
+     padding-left: 20px;
+   }
+   
+ }
